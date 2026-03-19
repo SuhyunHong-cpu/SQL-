@@ -6,7 +6,7 @@ mysql> SHOW DATABASES;
 | mysql              |
 | performance_schema |
 | sakila             |
-| sample             |
+| sample             |햣 
 | sys                |
 | world              |
 +--------------------+
