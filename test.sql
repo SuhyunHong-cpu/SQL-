@@ -1,0 +1,5 @@
+MySQL -uroot -PARTITION BY @honghong2424
+USE sample;
+USE STATS_SAMPLE_PAGES
+
+SELECT * FROM sample21;
