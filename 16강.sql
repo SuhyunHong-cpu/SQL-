@@ -101,3 +101,4 @@ mysql>   SELECT * FROM sample411;
 |  3 |    0 |
 +----+------+
 3 rows in set (0.00 sec)
+
